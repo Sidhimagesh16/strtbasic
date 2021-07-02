@@ -1,0 +1,22 @@
+SQL - Sequel / SQL 
+Structured Query Language
+------------------
+
+Not a programming language, its a query language.
+Used to handle database.
+
+4 types - DDL DML DCL TCL 
+
+Data definition language
+     manipulation
+     control
+Transaction control language.
+
+Example: Westside - customers,workers,products,departments.
+ 
+DB - Westside
+Tables - customers, workers, products, departments.
+
+customers: customer_id , first_name, last_name, mobile, email, date_of_birth, join_date
+
+RDBMS: Relational Database management system.
